@@ -2,8 +2,10 @@
 Репозиторий проектов [Полный курс по Data Science](https://skillfactory.ru/data-science-specialization)
 
 ## Задачи
-* [Задача 0. Игра угадай номер](task_01)
+* [Задача 0. Игра угадай номер](task_0)
+* [Задача 1. Визуализация при анализе данных оттока клиентов банка](task_1)
+* в работе ...
 
 ## Проекты
-* [Проекты 1. Вакансии сайта HH](https://github.com/DKudryavtsev/SkillFactory-Tasks/tree/main/Project_1-HeadHunterVacancies)
+* [Проекты 1. Вакансии сайта HH](Case_1)
 * в работе ...
