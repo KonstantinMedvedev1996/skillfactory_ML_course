@@ -38,6 +38,6 @@ https://www.kaggle.com/mathchi/churn-for-bank-customers
 :arrow_up: [к оглавлению](./README.md#Оглавление)
 
 ### Результаты:  
-Представлено 10 графиков с описанием и код их оформления
+C представлеными графиками, их  описанием и кодом можно ознакомиться в [ноутбуке](churn_visualization.ipynb)**
 
 :arrow_up: [к оглавлению](./README.md#Оглавление)
